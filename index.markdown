@@ -1,6 +1,7 @@
 ---
 title: home
 date: 2016-06-30 09:39:00 Z
+layout: page
 ---
 
 Hi, I'm a freelance graphic UX/UI interaction product designer, living and working in Dublin.
