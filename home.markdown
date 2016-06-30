@@ -3,7 +3,7 @@ title: home
 date: 2016-06-30 09:39:00 Z
 ---
 
-Hi, I’m a freelance graphic UX/UI interaction product designer, living and working in Dublin.
+Hi, I'm a freelance graphic UX/UI interaction product designer, living and working in Dublin.
 
 I’m at my best when I’m creating meaningful, lasting design that solves real problems. I’m also a complete nerd about coffee (yes, I weigh it everytime) and, when I’m not designing, you’ll usually find me somewhere in the Wicklow mountains on a mountain bike.
 
