@@ -1,5 +1,5 @@
 ---
-title: home
+title: Peter McDonagh
 date: 2016-06-30 09:39:00 Z
 layout: page
 ---
