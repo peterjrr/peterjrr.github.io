@@ -4,14 +4,10 @@ date: 2016-06-30 09:39:00 Z
 layout: page
 ---
 
-Hi, I'm a <strike>freelance graphic UX/UI interaction product</strike> designer, living and working in Dublin.
+Hi, I’m a freelance designer. I partner and collaborate with people, organisations and companies to help them plan, design and ship great products that are simple and easy to use. 
 
-I’m at my best when I’m creating meaningful, lasting design that solves real problems. I’m also a complete nerd about coffee (yes, I weigh it everytime) and, when I’m not designing, you’ll usually find me somewhere in the Wicklow mountains on a mountain bike.
+ Recently, I’ve been designing a new interface for [ti.to](http://ti.tio), a highly praised Irish company who make really great ticketing and event software. Last year I designed and built a new website for [3fe.com](http://3fe.com) which resulted in a 10x (1000%) increase in online sales in less than a year. I designed and built a new platform for the Irish Theatre Institute to showcase and archive the work of Irish Stage and Screen designers. I'm currently working on a 
 
-Previously I was lead designer on the Creative Technology team at Radical where I worked on a wide range of digital projects for clients including Toyota, Samsung, Mars, An Post and the Road Safety Authority of Ireland.
+I believe in designing and making products that are useful, beautiful and relevant. 
 
-While I was at Radical we picked up a silver ICAD bell for sticking a giant ginger moustache on the front of our office for Movember. I know, really, but it was huge, and it was plugged into the internet. Watch the case study video here.
-
-I’m available for interesting projects, collaborations and agency work on a freelance or contract basis. I’m particularly keen to hear from you if you are making a product.
-
-If it sounds like we might get along, and I’d be a good fit for your project, I’d love to hear from you.
+If you’ve got a project you’d like to discuss drop me a mail to [hi@petermcdonagh.com](mailto:hi@petermcdonagh.com), or say hi on twitter [@petermcdonagh_](http://twitter.com/petermcdonagh_).
