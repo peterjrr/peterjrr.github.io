@@ -15,7 +15,3 @@ While I was at Radical we picked up a silver ICAD bell for sticking a giant ging
 I’m available for interesting projects, collaborations and agency work on a freelance or contract basis. I’m particularly keen to hear from you if you are making a product.
 
 If it sounds like we might get along, and I’d be a good fit for your project, I’d love to hear from you.
-
-hello@petermcdonagh.com
-@petermcdonagh_
-Linkedin
