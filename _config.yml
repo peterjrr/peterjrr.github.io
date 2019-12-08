@@ -9,8 +9,7 @@ collections:
     title: Uploads
     output: true
 email: hi@petermcdonagh.com
-description: |
-  Peter McDonagh is a freelance designer and developer.
+description: Peter McDonagh is a freelance designer
 baseurl: 
 url: http://petermcdonagh.com
 twitter_username: petermcdonagh_
