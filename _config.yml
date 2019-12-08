@@ -9,9 +9,9 @@ collections:
     title: Uploads
     output: true
 email: hi@petermcdonagh.com
-description: Peter McDonagh is a freelance designer
+description: Peter Reaper-Reynolds is a freelance designer
 baseurl: 
-url: http://petermcdonagh.com
+url: http://pete.studio
 twitter_username: petermcdonagh_
-github_username: petemcd
+github_username: peterjrr
 markdown: kramdown
