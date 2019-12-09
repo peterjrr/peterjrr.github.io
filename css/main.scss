@@ -5,7 +5,7 @@
 
 // Our variables
 $base-font-family: 'apcupmcd', Helvetica, Arial, sans-serif;
-$font-path-file-name: /assets/fonts/ApcuPmcdReg;
+$font-path-file-name: '/assets/fonts/ApcuPmcdReg';
 $base-font-size:   2rem;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
@@ -15,8 +15,8 @@ $spacing-unit:     30px;
 
 // Colors
 $background-color: rgba(255, 255, 255, 1);
-$base-color:       rgba(0, 0, 0, 0.7);
-$primary-color:      rgba(29, 233, 182, 100);
+$base-color:       rgba(0, 0, 0, 0.8);
+$primary-color:      rgba(112, 56, 255, 1);
 
 // Width of the content area
 $content-width:    640px;

@@ -70,9 +70,11 @@ a {
   color: $primary-color;
   font-weight: normal;
   text-decoration: none;
+  
 
   &:hover {
-    border-bottom: 2px solid $primary-color;
+    
+    border-bottom: 2px solid rgba(112, 56, 255, 0.8);
   }
 }
 
