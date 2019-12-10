@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  writing:
+    title: Writing
+    output: true
 email: hi@pete.studio
 description: Peter Reaper-Reynolds is a freelance designer in Ireland.
 baseurl: 
