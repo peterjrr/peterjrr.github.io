@@ -16,4 +16,4 @@ Prior to going freelance, I was lead designer on the Creative Technology team at
 
 I'm at my best, and happiest, when I'm making products that are not only useful and beautiful, but that contribute towards making both the web and our world a better place.
 
-I'm not currently available for new projects but you can still [say hi on email](mailto:hi@petermcdonagh.com?Subject=Hi) or [find me on twitter](https://twitter.com/petermcdonagh_).
+I'm not currently available for new projects but you can still [say hi on email](mailto:hi@pete.studio?Subject=Hi) or [find me on twitter](https://twitter.com/petermcdonagh_).
