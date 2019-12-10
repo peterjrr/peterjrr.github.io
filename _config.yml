@@ -2,9 +2,6 @@
 title: Peter Reaper-Reynolds
 timezone: UTC
 collections:
-  writing:
-    title: Posts
-    output: true
   posts:
     title: Posts
     output: true
