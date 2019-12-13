@@ -4,7 +4,7 @@ date: 2016-06-30 09:39:00 Z
 layout: page
 ---
 
-I’m a freelance product designer from Northern Ireland. I partner and collaborate with people, organisations and companies to help them plan, design and ship great products that are simple, beautiful and easy to use.
+I’m a freelance product designer from Northern Ireland. I partner and collaborate with people, organisations and companies to help them plan, design and ship great products that are simple, beautiful and easy to use. 
 
 At the moment, I'm working with [Interplay](https://interplayapp.com) to help them build a new design tool which lets designers use code components from their design system to design visually in the browser. It's in private beta and you should sign up [here](https://interplayapp.com/#signup) 🙌
 
