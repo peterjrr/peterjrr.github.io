@@ -6,7 +6,7 @@ layout: page
 
 I’m a freelance product designer from Northern Ireland. I partner and collaborate with people, organisations and companies to help them plan, design and ship great products that are simple, beautiful and easy to use. 
 
-At the moment, I'm working with [Interplay](https://interplayapp.com) to help them build a new design tool which lets designers use code components from their design system to design visually in the browser. It's in private beta and you should sign up [here](https://interplayapp.com/#signup) 🙌
+At the moment, I'm working with [Interplay](https://interplayapp.com) to help them build a new design tool which lets designers use code components from their design system to design visually in the browser. It's in private beta and you should sign up [here](https://interplayapp.com) 🙌
 
 I am also a visting lecturer in [Visual Communication Design at IADT](http://www.iadt.ie/courses/visual-communication-design) where I teach designers to code. I believe a practical understanding of code is a crucial part of design education. It empowers designers to build and prototype things themselves and on larger projects it gives them the skills to collaborate more effectively with developers.
 
