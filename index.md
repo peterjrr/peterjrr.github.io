@@ -1,7 +1,7 @@
 ---
 title: Home
 date: 2016-06-30 09:39:00 Z
-layout: page
+layout: default
 ---
 
 I’m a freelance product designer from Northern Ireland. I partner and collaborate with people, organisations and companies to help them plan, design and ship great products that are simple, beautiful and easy to use. 
