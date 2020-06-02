@@ -10,7 +10,7 @@ padding: 0;
 @font-face {
   font-family: apcupmcd ;
   src: url($font-path-file-name+'.eot'); /* IE9 Compat Modes */
-  src: url($font-path-file-name+'.woff2') format('woff2'), /* Super Modern Browsers */
+  src: url($font-path-file-name+'.woff') format('woff'), /* Super Modern Browsers */
        url($font-path-file-name+'.woff') format('woff'), /* Pretty Modern Browsers */
        url($font-path-file-name+'.ttf')  format('truetype'), /* Safari, Android, iOS */
        url($font-path-file-name+'.svg#font_name') format('svg'); /* Legacy iOS */
@@ -35,8 +35,19 @@ article, header, nav, section {
     display: block;
 }
 
+a.logo:hover {
+  border-bottom: none;
+}
 
 
+.page-title {
+  margin-bottom: 32px;
+  
+}
+
+.post-title {
+  margin-bottom: 16px;
+}
 
 /* Layout
 ================================ */
