@@ -4,9 +4,12 @@ date: 2020-06-01 11:53:00 Z
 layout: post
 ---
 
-I've had an itch to start writing more for a long time. In fact, it has featured in my yearly goals since 2015. But every year it got squeezed out by work, travelling, renovating a house or starting a family. 
+I've had an itch to start writing for a while. In fact, it has featured in my yearly goals since 2015. Every year it got squeezed out by work, travelling, renovating a house or starting a family. But I’ve finally decided to make a start.
 
-Recently I've been reading about the idea of a digital garden. Inspired by people like Anne-Laure Le Cunff, Maggie Appleton and Andy Matuschak. A digital garden encourages the idea of publishing less polished notes, and tending to them over time. Some notes are seeds of an idea, some are starting to grow shoots and branches and some are more mature and substantial. As well as Jonnie Hallmann and Frank Chimero who popularised the idea of designing in the open. 
+Why now? Over the last few months I've been inspired by the digital gardens created by Anne-Laure Le Cunff, Maggie Appleton and Andy Matuschak. A digital garden encourages the idea of writing in the open, publishing less polished notes, and tending to them over time. 
+
+Designing in the open.
+As well as Jonnie Hallmann and Frank Chimero who popularised the idea of designing in the open. 
 
 So, here I am — 2 month old baby in my left arm,  typing with my right hand, saying hello world.
 
