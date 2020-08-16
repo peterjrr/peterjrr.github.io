@@ -4,15 +4,20 @@ date: 2020-06-01 11:53:00 Z
 layout: post
 ---
 
-I've had an itch to start writing for a while. In fact, it has featured in my yearly goals since 2015. Every year it got squeezed out by work, travelling, renovating a house or starting a family. But I’ve finally decided to make a start.
+I've had an itch to write in public for a long time. In fact, it has featured in my yearly goals since 2015. Every year it got squeezed out by [work](http://pete.studio), travelling, [renovating a house](http://instagram.com/guinearow) or starting a family. But I'm here and I'm quietly making a start.
 
-Why now? Over the last few months I've been inspired by the digital gardens created by Anne-Laure Le Cunff, Maggie Appleton and Andy Matuschak. A digital garden encourages the idea of writing in the open, publishing less polished notes, and tending to them over time. 
+Why now? Over the last few months I've been inspired by the digital gardens created by [Anne-Laure Le Cunff](https://nesslabs.com/digital-garden-tiddlywiki), [Maggie Appleton](https://maggieappleton.com/garden/) and [Andy Matuschak](https://notes.andymatuschak.org). A digital garden encourages the idea of writing in the open, publishing less polished notes, and tending to them over time. And I like that idea a lot.
 
-Designing in the open.
-As well as Jonnie Hallmann and Frank Chimero who popularised the idea of designing in the open. 
+The modern web seems to be dominated by two extremes — at one extreme it is cluttered with click-baity content marketing and 'thought leadership' that regurgitates and recycles the same worn out material. And on the opposite end of the spectrum, there are a (much smaller) number of virtuosic writers who truly are thought leaders (no inverted commas required) forging new ground and articulating what the rest of us can't quite put our finger on. 
 
-So, here I am — 2 month old baby in my left arm,  typing with my right hand, saying hello world.
+I kind of don’t aspire to being either. This little slice of the internet is primarily for me. 
 
-In order to get over the [fear of getting started](https://www.shuomi.me/blog/dont-wait-until-conditions-are-perfect-how-to-beat-fear), I have resurrected my old Siteleaf Jekyll blog (which I [started in 2016](https://github.com/peterjrr/peterjrr.github.io/commit/1456ca7491cd3b28109d0dfde2f9945e916c75db)) which does the job. I might move to something more modern later, but right now, the most important thing is to start writing. After all, a blog is for writing, and it shouldn't require too much investment in the tool itself.
+It's a way push myself to create more than I consume because [collecting material feels more useful than it usually is](https://notes.andymatuschak.org/z8QSUyNdq3CMK79KSnCW7QTR1MPHEFi4Q2LY8) and [writing forces sharper understanding](https://notes.andymatuschak.org/z8q1K5a8i95qARkpFwS45qqtQzM8th82TkeUg).
 
-I have been working on building a design tool for the past couple of years with [Interplay](http://interplayapp.com) and what a ride it is to build a design tool. I have a lot of thoughts and ideas about design tooling that I have to to properly articulate. So this blog is a place for me to explore ideas about the future of design tooling and design systems in the open. I'd love for you to join me. If anything resonates with you, or if you have your own ideas about what you'd like from a design tool, .
+Expect it to be honest and a bit rough around the edges as I write about the things I'm learning, doing and thinking. Hopefully improves over time as my learning develops and ideas gain clarity.
+
+ so that they're not left to drown in a thousand meetings notes, to-do lists and journal entries and fragments of ideas. 
+
+It's a way to push myself to distill my thoughts, learnings and ideas a bit further. 
+
+So, here I am — 4 month old baby in my left arm,  typing with my right hand, saying, "hello world" 👋
