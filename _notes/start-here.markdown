@@ -14,6 +14,6 @@ But I kind of don’t aspire to being either. In fact, this little slice of the 
 
 It's a place where I will collect and refine ideas, work and learnings so that they become more useful over time rather than getting lost and forgotten in a thousand meetings notes, to-do lists, journal entries and fragments of ideas.
 
-It's a way to push myself to create more than I consume because [collecting material feels more useful than it usually is](https://notes.andymatuschak.org/z8QSUyNdq3CMK79KSnCW7QTR1MPHEFi4Q2LY8) and.
+It's also a sneaky way to push myself to create more than I consume because it's waaay too easy to scroll Twitter and feel like you're learning stuff because [collecting material feels more useful than it usually is](https://notes.andymatuschak.org/z8QSUyNdq3CMK79KSnCW7QTR1MPHEFi4Q2LY8).
 
 So, here I am — 4 month old baby in my left arm, typing with my right hand, saying, "hello world" 👋
