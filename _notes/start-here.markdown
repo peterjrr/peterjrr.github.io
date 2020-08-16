@@ -8,7 +8,7 @@ I've had an itch to write in public for a long time. In fact, it has featured in
 
 Why now? Over the last few months I've been inspired by the digital gardens created by [Anne-Laure Le Cunff](https://nesslabs.com/digital-garden-tiddlywiki), [Maggie Appleton](https://maggieappleton.com/garden/) and [Andy Matuschak](https://notes.andymatuschak.org). A digital garden encourages the idea of writing in the open, publishing less polished notes, and tending to them over time. And I like that idea a lot.
 
-It's an antidote to the modern web which seems to be cluttered with click-baity content marketing and 'thought leadership' that regurgitates and recycles the same worn out material. And on the opposite end of the spectrum, there are a (much smaller) number of virtuosic writers who truly are thought leaders (no inverted commas required) forging new ground and articulating what the rest of us can't quite put our finger on. 
+It's an antidote to the modern web which seems to be cluttered with click-baity content marketing and 'thought leadership' that regurgitates and recycles the same worn out material. And on the opposite end of the spectrum, there are a handful of writers doing the hard work of helping us understand our world better with truly virtuosic writing. 
 
 But I kind of don’t aspire to being either. This little slice of the internet is primarily for me. Expect it to be honest and a bit rough around the edges as I write about the things I'm learning, doing and thinking. 
 
