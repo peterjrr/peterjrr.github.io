@@ -8,12 +8,12 @@ I've had an itch to write in public for a long time. In fact, it has featured in
 
 Why now? Over the last few months I've been inspired by the digital gardens created by [Anne-Laure Le Cunff](https://nesslabs.com/digital-garden-tiddlywiki), [Maggie Appleton](https://maggieappleton.com/garden/) and [Andy Matuschak](https://notes.andymatuschak.org). A digital garden encourages the idea of writing in the open, publishing less polished notes, and tending to them over time. And I like that idea a lot.
 
-It feels like the modern web is cluttered with click-baity content marketing and 'thought leadership' that regurgitates and recycles the same worn out material. While on the opposite end of the spectrum, there are a handful of writers doing the hard work of helping us understand our world better with truly virtuosic writing. 
+It feels like the modern web is cluttered with click-baity content marketing and 'thought leadership' that regurgitates and recycles the same worn out material. While on the opposite end of the spectrum, there are a handful of writers doing the hard work of helping us better understand our world through truly virtuosic writing. 
 
 But I kind of don’t aspire to being either. In fact, this little slice of the internet is primarily for me. Expect it to be honest and a bit rough around the edges. You might find it interesting. Or not.
 
 It's a place where I will collect and refine ideas, work and learnings so that they become more useful over time rather than getting lost and forgotten in a thousand meetings notes, to-do lists, journal entries and fragments of ideas.
 
-It's a way to push myself create more than I consume because [collecting material feels more useful than it usually is](https://notes.andymatuschak.org/z8QSUyNdq3CMK79KSnCW7QTR1MPHEFi4Q2LY8) and [writing forces sharper understanding](https://notes.andymatuschak.org/z8q1K5a8i95qARkpFwS45qqtQzM8th82TkeUg).
+It's a way to push myself to create more than I consume because [collecting material feels more useful than it usually is](https://notes.andymatuschak.org/z8QSUyNdq3CMK79KSnCW7QTR1MPHEFi4Q2LY8) and.
 
 So, here I am — 4 month old baby in my left arm, typing with my right hand, saying, "hello world" 👋
