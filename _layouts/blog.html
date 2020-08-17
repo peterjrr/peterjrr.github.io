@@ -7,13 +7,13 @@ layout: default
  
   {% for note in site.notes %}
   <article>
-    <h2>
+    <h2 class="note-list-title">
       <a href="{{ note.url }}">
         {{ note.title }}
       </a>
     </h2>
-    <!-- <time datetime="{{ note.date | date: "%Y-%m-%d" }}">{{ note.date | date_to_long_string }}</time> -->
-    {{ note.content }}
+    <time class="note-list-date" datetime="{{ note.date | date: "%Y-%m-%d" }}">{{ note.date | date_to_long_string }}</time>
+    <!-- {{ note.content }} -->
   </article>
 {% endfor %}
 

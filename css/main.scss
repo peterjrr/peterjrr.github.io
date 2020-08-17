@@ -39,6 +39,13 @@ $on-laptop:        800px;
     }
 }
 
+.note-list-title {
+    font-size: 24px;
+}
+.note-list-date {
+    color: grey;
+    font-size: 18px;
+}
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
