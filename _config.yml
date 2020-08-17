@@ -5,7 +5,6 @@ collections:
   notes:
     title: Notes
     output: true
-    redirect: notes/start-here
   posts:
     title: Posts
     output: true
