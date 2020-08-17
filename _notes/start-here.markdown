@@ -12,7 +12,7 @@ It feels like the modern web is cluttered with click-baity content marketing and
 
 But I kind of don’t aspire to being either. In fact, this little slice of the internet is primarily for me. Expect it to be honest and a bit rough around the edges. You might find it interesting. Or not.
 
-It's a place for me to collect and refine ideas, work and learnings so that they become more useful over time rather than getting lost and forgotten in a thousand meetings notes, to-do lists, journal entries and fragments of ideas.
+It's a place for me to collect and refine ideas, work and learnings so that they become more useful over time rather than getting lost and forgotten in a thousand meeting notes, to-do lists, journal entries and fragments of ideas.
 
 It's also a sneaky way to push myself to create more than I consume because it's waaay too easy to scroll Twitter and feel like you're learning stuff because [collecting material feels more useful than it usually is](https://notes.andymatuschak.org/z8QSUyNdq3CMK79KSnCW7QTR1MPHEFi4Q2LY8).
 
