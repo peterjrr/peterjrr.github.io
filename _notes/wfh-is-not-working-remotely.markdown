@@ -1,6 +1,7 @@
 ---
 title: WFH is not working remotely
 date: 2021-02-14 22:38:00 Z
+layout: post
 ---
 
 Working from home is not remote work. During the pandemic we’ve experienced a rapid move to remote working as we can’t be in offices together. But this isn’t the same as remote working. Remote working means going to a cafe for the morning for a change of scenery, spending a day working with your friend in their company office, hit desking at a coworking space or having your own desk in a shared space. Or visiting new places for an extended time and working while you are there. It means meeting friends for lunch, travelling to work by bike, car, bus, train or on foot. All of these things break up the drudgery of working from home.
