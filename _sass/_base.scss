@@ -36,25 +36,42 @@ article, header, nav, section {
     display: block;
 }
 
-a.logo:hover {
-  border-bottom: none;
+/* Text
+================================ */
+
+a {
+  color: $primary-color;
+  font-weight: normal;
+  text-decoration: none;
+  
+  &:hover {
+    border-bottom: 2px solid $primary-color;
+  }
 }
 
+p {
+  margin-bottom: 20px;
+}
 
-.page-title {
-  margin-bottom: 32px;
-  
+.page-content {
+  margin-bottom: 20px;
 }
 
 .post-title {
-  margin-bottom: 16px;
+  letter-spacing: -1px;
+  font-size: 2em;
+}
+
+.post-meta {
+  color: rgba(0, 0, 0, 0.4);
+  margin-bottom: 60px;
 }
 
 /* Layout
 ================================ */
 
 .wrapper{
-  margin: 60px auto;
+  margin: 30px auto 80px;
   max-width: $content-width;
   overflow: hidden;
 }
@@ -70,35 +87,66 @@ a.logo:hover {
   }
 
   .wrapper {
-    margin: 30px 15px;
+    margin: 20px 20px 60px;
   }
 
 }
 
-/* Text
+/* Nav
 ================================ */
 
-a {
+.site-title {
+  font-size: 22px;
   color: $primary-color;
-  font-weight: normal;
-  text-decoration: none;
-  
+}
 
-  &:hover {
-    border-bottom: 2px solid $primary-color;
+nav {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 80px;
+}
+
+nav li {
+  list-style: none;
+  display: inline;
+}
+
+a.site-title:hover {
+  border-bottom: none;
+}
+
+
+.page-title {
+  margin-bottom: 32px;
+}
+
+/* Notes Index 
+================================ */
+
+.notes-index-item {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+  padding: 16px 0;
+  &:first-of-type {
+    border-top: 1px solid rgba(0, 0, 0, 0.25);
   }
 }
 
-p {
-  margin-bottom: 20px;
+.notes-index-title {
+  font-size: 20px;
+  a {
+    color: $base-color;
+    &:hover {
+      border-bottom: none;
+      color: $primary-color;
+    }
+  }
 }
 
-.site-header {
-  font-size: 2.2rem;
-  margin-bottom: 20px;
-  color: $primary-color;
+.notes-index-date {
+  color: rgba(0, 0, 0, 0.4);
+  font-size: 18px;
+  margin-bottom: 2px;
 }
 
-.page-content {
-  margin-bottom: 20px;
-}
+
+

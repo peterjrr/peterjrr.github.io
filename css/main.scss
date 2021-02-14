@@ -16,11 +16,10 @@ $spacing-unit:     30px;
 // Colors
 $background-color: rgba(255, 243, 241, 1);
 $base-color:       rgba(0, 0, 0, 0.8);
-$primary-color:      rgba(56, 60, 255, 1);
+$primary-color:    rgba(56, 60, 255, 1);
 
 // Width of the content area
 $content-width:    640px;
-
 $on-palm:          600px;
 $on-laptop:        800px;
 
@@ -37,14 +36,6 @@ $on-laptop:        800px;
     @media screen and (max-width: $device) {
         @content;
     }
-}
-
-.note-list-title {
-    font-size: 24px;
-}
-.note-list-date {
-    color: grey;
-    font-size: 18px;
 }
 
 
