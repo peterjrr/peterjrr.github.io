@@ -7,7 +7,7 @@ collections:
     output: true
     permalink: notes
   posts:
-    title: Something
+    title: Posts
     output: true
   uploads:
     title: Uploads
