@@ -27,6 +27,7 @@ body {
   font-size: $base-font-size;
   line-height: 1.5;
   color: $base-color;
+  background-color: $background-color;
 }
 
 img, video, object{ max-width: 100% }
@@ -84,8 +85,7 @@ a {
   
 
   &:hover {
-    
-    border-bottom: 2px solid rgba(112, 56, 255, 0.8);
+    border-bottom: 2px solid $primary-color;
   }
 }
 
