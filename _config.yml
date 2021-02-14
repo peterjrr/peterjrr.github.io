@@ -5,6 +5,7 @@ collections:
   notes:
     title: Notes
     output: true
+    permalink: notes
   posts:
     title: Posts
     output: true
