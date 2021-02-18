@@ -7,7 +7,8 @@ layout: default
 
 <section class="notes-index">
   <ul>
-  {% for note in site.notes %}
+  {% assign sorted_notes = site.notes | sort:"date" | reverse %}
+  {% for note in sorted_notes %}
   <li class="notes-index-item">
     <h2 class="notes-index-title">
       <a href="{{ note.url }}">
