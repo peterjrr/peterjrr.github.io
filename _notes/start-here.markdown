@@ -4,7 +4,7 @@ date: 2020-06-01 11:53:00 Z
 layout: post
 ---
 
-I have wanted to write in public for a long time. It has featured in my yearly goals since 2015. But each year it got squeezed out by [work](http://pete.studio), travelling, [renovating a house](http://instagram.com/guinearow) or starting a family. Anyway, I'm here and I'm quietly making a start.
+I've wanted to write in public for a long time. It has featured in my yearly goals since 2015. But each year it got squeezed out by [work](http://pete.studio), travelling, [renovating a house](http://instagram.com/guinearow) or starting a family. Anyway, I'm here and I'm quietly making a start.
 
 Why now? Over the last few months I've been inspired by the digital gardens created by [Anne-Laure Le Cunff](https://nesslabs.com/digital-garden-tiddlywiki), [Maggie Appleton](https://maggieappleton.com/garden/) and [Andy Matuschak](https://notes.andymatuschak.org). A digital garden encourages the idea of writing in the open, publishing less polished notes, and tending to them over time. And I like that idea a lot.
 
