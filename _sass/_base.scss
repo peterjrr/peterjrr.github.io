@@ -6,24 +6,57 @@ margin: 0;
 padding: 0;
 }
 
-// base font family
+:root {
+  --pink: rgba(255, 243, 241, 1);
+  --mint: rgba(242, 255, 248, 1);
+  --black: rgba(0, 0, 0, 1);
+  --white: rgba(255, 255, 255, 1);
+}
+
+@charset "utf-8";
+
+// Our variables
+$base-font-size:   20px;
+$base-font-weight: 400;
+$small-font-size:  18px;
+$base-line-height: 1.5;
+$spacing-unit:     30px;
+$font-path-file-name: '/assets/fonts/national-2-web-regular';
+
+// Colors
+$background-color: var(--pink);
+$base-color:       rgba(0, 0, 0, 0.8);
+$primary-color:    rgba(56, 60, 255, 1);
+
+// Width of the content area
+$content-width:    600px;
+
+// National Import
 @font-face {
-  font-family: apcupmcd ;
-  src: url($font-path-file-name+'.eot'); /* IE9 Compat Modes */
-  src: url($font-path-file-name+'.woff') format('woff'), /* Super Modern Browsers */
-       url($font-path-file-name+'.woff') format('woff'), /* Pretty Modern Browsers */
-       url($font-path-file-name+'.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url($font-path-file-name+'.svg#font_name') format('svg'); /* Legacy iOS */
-  font-weight: normal;
+  font-family: 'national2';
+  src: url($font-path-file-name+'.eot');
+  src: url($font-path-file-name+'.eot?#iefix') format('embedded-opentype'),
+       url($font-path-file-name+'.woff2') format('woff2'), 
+       url($font-path-file-name+'.woff') format('woff');
   font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'national2';
+  src: url($font-path-file-name+'-italic.eot');
+  src: url($font-path-file-name+'-italic.eot?#iefix') format('embedded-opentype'),
+       url($font-path-file-name+'-italic.woff2') format('woff2'), 
+       url($font-path-file-name+'-italic.woff') format('woff');
+  font-style: italic;
+  font-weight: 400;
 }
 
 html {
-  font-size: 62.5%;
+  font-family: 'national2', sans-serif;
 }
 
 body {
-  font-family: $base-font-family;
   font-size: $base-font-size;
   line-height: 1.5;
   color: $base-color;
@@ -83,7 +116,7 @@ p {
 
 @media only screen and (max-width: 670px){
   body{
-    font-size: 1.8rem;
+    font-size: 18px;
   }
 
   .wrapper {
