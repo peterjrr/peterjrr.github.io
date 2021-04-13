@@ -4,12 +4,10 @@ date: 2016-06-30 09:39:00 Z
 layout: default
 ---
 
-I’m a freelance product designer from Northern Ireland. I partner and collaborate with people, organisations and companies to help them plan, design and ship great products that are simple, beautiful and easy to use. 
+Hi, I'm Pete—a product designer based in Northern Ireland. I am a founding designer at [Interplay](https://interplayapp.com) where we're working to close the gap between design and engineering by automating the repetitive work that’s required to translate design to code and back again. If you're working with design systems drop me a message. I'd love to show you what we're building.
 
-At the moment, I'm working with [Interplay](https://interplayapp.com) to build a new design tool that lets designers use code components from their design system to design visually in the browser or in their existing design tools. If you're working on design systems I'd love to show you what we're building so [drop me a message on twitter]((https://twitter.com/petermcdonagh_).) or [drop me an email](mailto:hi@pete.studio?Subject=Interplay)
+I'm a founding fellow of the [On Deck Designers Fellowship](https://www.beondeck.com/designers) which is an eight-week remote program for ambitious designers who want to hone their skills, increase their impact and grow as leaders. 
 
-I am also a visiting lecturer in [Visual Communication Design at IADT](http://www.iadt.ie/courses/visual-communication-design) where I teach designers to code. I believe a practical understanding of code is a crucial part of design education. It empowers designers to build and prototype things themselves and on larger projects it gives them the skills to collaborate more effectively with developers.
+Before joining Interplay I freelanced for 7 years and worked remotely all over Europe. I work a 4 day week and I would recommend it. I generally get obsessed about whatever I'm interested in which currently includes mechanical keyboards, gardening, investing, gentle parenting, co-housing projects, writing and coffee. 
 
-I'm at my best, and happiest, when I'm making products that are not only useful and beautiful, but that contribute towards making both the web and our world a better place.
-
-I'm not currently available for new projects but please [say hi on email](mailto:hi@pete.studio?Subject=Hi) or [find me on twitter](https://twitter.com/petermcdonagh_).
+If you'd like to get in touch you can [drop me an email](mailto:hi@pete.studio?Subject=Hi), [find me on twitter](https://twitter.com/petermcdonagh_) or [connect on Linkedin](https://www.linkedin.com/in/peterjrr/).
