@@ -12,9 +12,10 @@ collections:
     title: Uploads
     output: true
 email: hi@pete.studio
-description: Peter Reaper-Reynolds is a freelance designer in Ireland.
+description: Peter Reaper-Reynolds is a product designer from Northern Ireland.
 baseurl: 
 url: http://pete.studio
 twitter_username: petermcreaper
 github_username: peterjrr
 markdown: kramdown
+gems: jekyll-feed

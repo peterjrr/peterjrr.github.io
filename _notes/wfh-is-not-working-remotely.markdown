@@ -4,7 +4,7 @@ date: 2021-02-14 22:38:00 Z
 layout: post
 ---
 
-Before Covid, I had been working remotely for 4 years and I _promise_ you it isn’t the same as remote working. I have friends who are finding things tough and they’ll say, you used to do this all the time, so this is probably normal for you. I’ll reply that working from home during a pandemic when you can't travel, see your friends and family, or go to the gym or restaurants is ***nothing** like working remotely.
+Before Covid, I had been working remotely for 4 years and I _promise_ you it isn’t the same as remote working. I have friends who are finding things tough and they’ll say, you used to do this all the time, so this is probably normal for you. I’ll reply that working from home during a pandemic when you can't travel, see your friends and family, or go to the gym or restaurants is **nothing** like working remotely.
 
 Before Covid, the beautiful flexibility of remote working meant I might go to a cafe for the morning for a change of scenery, maybe spend a day working with a friend in their company office, hot desk at a coworking space or work from my own office in a shared space. If my brain wasn’t in the zone, I’d take a midday Crossfit class and make up work time in the evening. Sometimes I’d visit new countries or cities for a few weeks or months and work while I was there. 
 
