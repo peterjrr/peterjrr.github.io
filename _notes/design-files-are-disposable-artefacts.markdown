@@ -21,16 +21,20 @@ Instead of viewing our design files as the absolute source of truth and trying t
 Sometimes you will need a detailed and redlined design file. Sometimes all you need is a sketch on a napkin, or to sit down and have a chat with an engineer and collaborate in code. Remember hovering art directors?
 
 ### Redrawing pictures of code components
-But a lot of the time designers do need to do detailed exploration of flows and iterate on components that already exist in code. To do that, a designer must redraw a picture of it in order to iterate on that thing. 
+But if a designer wants to start with what already exists in code, they must redraw a picture of it in order to use or iterate on that thing. 
 
 This is completely bonkers because code components contain so much rich coded behaviour like interactive states, responsive resizing, and designers have to manually recreate all of that. On top of that we have to label and annotate components and add links to the documentation for the actual code component. 
 
 ### Designing with code components
-At Interplay we’ve been busy working to enable designer to get closer to the real thing and handover* more useful artefacts for developers. We built a Figma plugin which replaces your design library in Figma and makes all of your code components and tokens available directly in Figma. 
+At Interplay we’ve been busy working to enable designers to get closer to the real thing and handover* more useful artefacts for developers. We built a Figma plugin which replaces your design library in Figma and makes all of your production code components and tokens available directly in Figma. 
 
-Aside from never needing to maintain a design library in Figma again, the magic with this approach is that the rendered Figma components maintain a 1:1 connection with the code component. 
+Aside from never needing to maintain a design library in Figma again, the magic with this approach is that the rendered Figma components maintain a 1:1 connection with the code components. 
 
-What does that mean? It means that you can design with the latest components, exactly as they are in production. It means you get a visual properties panel of all the React props, so designers can fully understand the capablities of the component and have a truly shared language with engineers — when an engineer talks about a prop, the designer isn't saying, "What's a prop?". It means that when you preview your design from Figma, it runs the full React code in the browser. It means that when engineers inspect your design file they can copy out JSX of the exact component config (not a link to a docs site or a Storybook file). 
+What does that mean? 
+- It means that you can design with the latest components, exactly as they are in production. 
+- It means you get a visual properties panel of all the React props, so designers can fully understand the capablities of the component and have a truly shared language with engineers — when an engineer talks about a prop, the designer isn't saying, "What's a prop?". 
+- It means that when you preview your design from Figma, it runs the full React code in the browser. 
+- It means that when engineers inspect your design file they can copy out JSX of the exact component config (not a link to a docs site or a Storybook file). 
 
 ## Higher level thinking about deeper problems
 I’m excited for the next wave of design tools that cut out the repetitive busywork for designers. When designers no longer have to spend their time producing detailed, but disposable, design artefacts for handover — every state of every screen with redlines and annotations for spacing, sizes and colours — our headspace is freed up to think about higher level things and ultimately have more design impact.  
