@@ -30,11 +30,13 @@ At Interplay we’ve been busy working to enable designers to get closer to the 
 
 Aside from never needing to maintain a design library in Figma again, the magic with this approach is that the rendered Figma components maintain a 1:1 connection with the code components. 
 
-What does that mean? 
-- It means that you can design with the latest components, exactly as they are in production. 
-- It means you get a visual properties panel of all the React props, so designers can fully understand the capablities of the component and have a truly shared language with engineers — when an engineer talks about a prop, the designer isn't saying, "What's a prop?". 
-- It means that when you preview your design from Figma, it runs the full React code in the browser. 
-- It means that when engineers inspect your design file they can copy out JSX of the exact component config (not a link to a docs site or a Storybook file). 
+What does that mean? It means that you can design with the latest components, exactly as they are in production. 
+
+It means you get a visual properties panel of all the React props, so designers can fully understand the capablities of the component and have a truly shared language with engineers — when an engineer talks about a prop, the designer isn't saying, "What's a prop?". 
+
+It means that when you preview your design from Figma, it runs the full React code in the browser. 
+
+It means that when engineers inspect your design file they can copy out JSX of the exact component config (not a link to a docs site or a Storybook file). 
 
 ## Higher level thinking about deeper problems
 I’m excited for the next wave of design tools that cut out the repetitive busywork for designers. When designers no longer have to spend their time producing detailed, but disposable, design artefacts for handover — every state of every screen with redlines and annotations for spacing, sizes and colours — our headspace is freed up to think about higher level things and ultimately have more design impact.  
@@ -42,4 +44,4 @@ I’m excited for the next wave of design tools that cut out the repetitive busy
 So, of course our design files do actually matter. Our files need to be adequtely tidy and well organised to communicate our design intention. But they aren’t the the end goal in themselves and it’s time to stop treating our design files as the ultimate source of truth.
 
 
-* Yes, handover is a dirty word, but until designers can contribute to production code there will still be a handover. And yes, we’re working on it 😉.
+*Yes, handover is a dirty word, but until designers can contribute to production code there will still be a handover. And yes, we’re working on it 😉.
