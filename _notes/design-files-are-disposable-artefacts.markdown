@@ -43,4 +43,4 @@ So, of course our design files do actually matter. Our files need to be adequtel
 
 When designers no longer have to spend their time producing detailed, but disposable, design artefacts for handover — every state of every screen with redlines and annotations for spacing, sizes and colours — our headspace is freed up to think about higher level things and ultimately have more design impact.
 
-If this way of working resonates with you, [drop me a message](mailto:pete@interplayapp.com) and I’d love to show you what we’re building.
+If this way of working resonates with you, [drop me a message](mailto:pete@interplayapp.com) and I’d love to show you what we’re building at Interplay.
