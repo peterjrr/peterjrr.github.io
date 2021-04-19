@@ -18,3 +18,4 @@ url: http://pete.studio
 twitter_username: petermcreaper
 github_username: peterjrr
 markdown: kramdown
+gems: jekyll-feed
