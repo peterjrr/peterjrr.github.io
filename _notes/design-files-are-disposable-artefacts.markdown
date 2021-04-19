@@ -34,7 +34,7 @@ What does that mean? It means that you can design with the latest components, ex
 
 It means you get a visual properties panel of all the React props, so designers can fully understand the capablities of the component and have a truly shared language with engineers — when an engineer talks about a prop, the designer isn't saying, "What's a prop?". 
 
-It means that when you preview your design from Figma, it runs the full React code in the browser. 
+It means that when you live preview your design from Figma, you can run the full React code in the browser. 
 
 It means that when engineers inspect your design file they can copy out JSX of the exact component config (not a link to a docs site or a Storybook file). 
 
