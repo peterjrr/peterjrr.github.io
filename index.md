@@ -12,4 +12,4 @@ I'm a founding fellow of the [On Deck Designers Fellowship](https://www.beondeck
 
 Before joining Interplay I freelanced for 7 years and worked remotely all over Europe. I work a 4 day week and I would recommend it. I generally get completely obsessed about whatever I'm interested in which currently includes mechanical keyboards, gardening, investing, co-housing projects, [writing](https://pete.studio/notes) and coffee. 
 
-If you'd like to get in touch you can [drop me an email](mailto:hi@pete.studio?Subject=Hi), [find me on twitter](https://twitter.com/petermcdonagh_) or [connect on Linkedin](https://www.linkedin.com/in/peterjrr/).
+If you'd like to get in touch you can drop me an [email](mailto:hi@pete.studio?Subject=Hi), find me on [twitter](https://twitter.com/petermcreaper) or connect on [Linkedin](https://www.linkedin.com/in/peterjrr/).
