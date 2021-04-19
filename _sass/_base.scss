@@ -72,6 +72,10 @@ article, header, nav, section {
 /* Text
 ================================ */
 
+h1 {
+  line-height: 40px;;
+}
+
 a {
   color: $primary-color;
   font-weight: normal;
@@ -93,6 +97,8 @@ p {
 .post-title {
   letter-spacing: -1px;
   font-size: 2em;
+  margin-bottom: 16px;
+  line-height: 1.2;
 }
 
 .post-meta {
