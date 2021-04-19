@@ -10,20 +10,22 @@ Before the web, most visual designers were graphic designers. They designed for 
 
 Websites and apps don't exist in such a predictable environment. They exist in code which is a rich, interactive environment. Screens change and adapt dynamically based on content, language, screen sizes, devices. A single screen could have an almost infinite number of combinations.
 
-## The real source of truth
+### The real source of truth
 The people who use our apps and websites never see our design files. I’m afraid, that no matter how hard we try, our beloved pictures of websites and apps are not the source of truth. The only thing that actually matters is the code that gets shipped to production — because that is what our users will see and experience. 
 
 So where does this leave us? Should designers code, or should designers do something else? 
 
-## Communicating design intent
+### Communicating design intent
 Instead of viewing our design files as the absolute source of truth and trying to replicate every possible state of every screen, a better way to think about our design files is as artefacts that we use to communicate our design intent. With each iteration of a design we are trying to communicate *just enough* to move the needle in production. 
 
 Sometimes you will need a detailed and redlined design file. Sometimes all you need is a sketch on a napkin, or to sit down and have a chat with an engineer and collaborate in code. Remember hovering art directors?
 
-## Redrawing pictures of code components
-But a lot of the time designers do need to do detailed exploration of flows and iterate on components that already exist in code. To do that, a designer must redraw a picture of it in order to iterate on that thing. This is completely bonkers because code components contain so much rich coded behaviour like interactive states, responsive resizing, and designers have to manually recreate all of that. On top of that we have to label and annotate components and add links to the documentation for the actual code component. 
+### Redrawing pictures of code components
+But a lot of the time designers do need to do detailed exploration of flows and iterate on components that already exist in code. To do that, a designer must redraw a picture of it in order to iterate on that thing. 
 
-## Designing with code components
+This is completely bonkers because code components contain so much rich coded behaviour like interactive states, responsive resizing, and designers have to manually recreate all of that. On top of that we have to label and annotate components and add links to the documentation for the actual code component. 
+
+### Designing with code components
 At Interplay we’ve been busy working to enable designer to get closer to the real thing and handover* more useful artefacts for developers. We built a Figma plugin which replaces your design library in Figma and makes all of your code components and tokens available directly in Figma. 
 
 Aside from never needing to maintain a design library in Figma again, the magic with this approach is that the rendered Figma components maintain a 1:1 connection with the code component. 
