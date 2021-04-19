@@ -4,18 +4,18 @@ date: 2021-02-15 07:41:00 Z
 permalink: "/notes"
 layout: default
 ---
-
+<!-- <h1 class='notes-index-heading'>Notes</h1> -->
 <section class="notes-index">
   <ul>
   {% assign sorted_notes = site.notes | sort:"date" | reverse %}
   {% for note in sorted_notes %}
   <li class="notes-index-item">
-    <h2 class="notes-index-title">
-      <a href="{{ note.url }}">
+    <a href="{{ note.url }}">
+      <h2 class="notes-index-title">
         {{ note.title }}
-      </a>
-    </h2>
-    <p class="notes-index-date"><timedatetime="{{ note.date | date: "%Y-%m-%d" }}">{{ note.date | date_to_long_string }}</time></p>
+      </h2>
+      <p class="notes-index-date"><timedatetime="{{ note.date | date: "%Y-%m-%d" }}">{{ note.date | date_to_long_string }}</time></p>
+    </a>
   </li>
   {% endfor %}
 </ul>
