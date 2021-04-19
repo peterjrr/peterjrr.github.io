@@ -26,7 +26,7 @@ But if a designer wants to start with what already exists in code, they must red
 This is completely bonkers because code components contain so much rich coded behaviour like interactive states, responsive resizing, and designers have to manually recreate all of that. On top of that we have to label and annotate components and add links to the documentation for the actual code component. 
 
 ### Designing with code components
-At Interplay we’ve been busy working to enable designers to get closer to the real thing and handover  more useful artefacts for developers (yes, handover is a dirty word, but until designers can contribute directly to production code there will still be a handover. And yes, we’re working on it 😉.). We built a Figma plugin which replaces your design library in Figma and makes all of your production code components and tokens available directly in Figma. 
+At [Interplay](http://interplayapp.com) we’ve been busy working to enable designers to get closer to the real thing and handover more useful artefacts for developers (yes, handover is a dirty word, but until designers can contribute directly to production code there will still be a handover. And yes, we’re working on it 😉.). We built a Figma plugin which replaces your design library in Figma and makes all of your production code components and tokens available directly in Figma. 
 
 Aside from never needing to maintain a design library in Figma again, the magic with this approach is that the rendered Figma components maintain a 1:1 connection with the code components. 
 
@@ -41,4 +41,4 @@ It means that when engineers inspect your design file they can copy out JSX of t
 ### Deeper thinking about higher level problems
 So, of course our design files do actually matter. Our files need to be adequtely tidy and well organised to communicate our design intention. But they aren’t the the end goal in themselves and it’s time to stop treating our design files as the ultimate source of truth.
 
-I’m excited for the next wave of design tools that cut out the repetitive busywork for designers. When designers no longer have to spend their time producing detailed, but disposable, design artefacts for handover — every state of every screen with redlines and annotations for spacing, sizes and colours — our headspace is freed up to think about higher level things and ultimately have more design impact.  
+When designers no longer have to spend their time producing detailed, but disposable, design artefacts for handover — every state of every screen with redlines and annotations for spacing, sizes and colours — our headspace is freed up to think about higher level things and ultimately have more design impact.  
